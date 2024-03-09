@@ -1,3 +1,3 @@
 # https://docs.pytest.org/en/7.1.x/contents.html
-def placeholder_test() -> None:
+def test_placeholder() -> None:
     assert True
